@@ -2,11 +2,6 @@
 
 ---
 
-<img alt="WIP" height="32px" src="images/coming_soon.png"/>&nbsp;&nbsp;
-Mon profil est encore en construction.
-
----
-
 Actuellement je suis Ingénieur Logiciel à Pôle emploi à Bordeaux, France.
 
 J'aide les équipes à se transformer pour adopter les pratiques liées au Continuous Delivery et au Software Craftmanship.
@@ -39,9 +34,9 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 
 Une liste de livres qui m'ont particulièrement intéressés.
 
-| <img alt="WIP" height="128x" src="images/continuous_delivery.png"/> | <img alt="WIP" height="128x" src="images/accelerate.png"/> | <img alt="WIP" height="128x" src="images/living_documentation.png"/> |
-|--|--|--|
-| **[Continuous Delivery](https://www.amazon.fr/Continuous-Delivery-Reliable-Deployment-Automation/dp/0321601912)** | **[Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)**  | **[Living documentation](https://www.amazon.fr/Living-Documentation-Cyrille-Martraire/dp/0134689321)**  |
+| <img alt="WIP" height="128x" src="images/continuous_delivery.png"/> | <img alt="WIP" height="128x" src="images/accelerate.png"/> | <img alt="WIP" height="128x" src="images/living_documentation.png"/> | <img alt="WIP" height="128x" src="images/unicorn_project.png"/> |
+|--|--|--|--|
+| **[Continuous Delivery](https://www.amazon.fr/Continuous-Delivery-Reliable-Deployment-Automation/dp/0321601912)** | **[Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)**  | **[Living documentation](https://www.amazon.fr/Living-Documentation-Cyrille-Martraire/dp/0134689321)**  | **[Le projet Unicorn](https://www.amazon.fr/projet-Unicorn-histoire-d%C3%A9veloppeurs-disruption/dp/2889153622)**  |
 
 ### Stats Github
 
