@@ -40,7 +40,7 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 Une liste de livres qui m'ont particulièrement intéressés.
 
 | <img alt="WIP" height="128x" src="images/continuous_delivery.png"/> | <img alt="WIP" height="128x" src="images/accelerate.png"/> | <img alt="WIP" height="128x" src="images/living_documentation.png"/> |
-|--|--|
+|--|--|--|
 | **[Continuous Delivery](https://www.amazon.fr/Continuous-Delivery-Reliable-Deployment-Automation/dp/0321601912)** | **[Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)**  | **[Living documentation](https://www.amazon.fr/Living-Documentation-Cyrille-Martraire/dp/0134689321)**  |
 
 ### Stats Github
