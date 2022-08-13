@@ -1,4 +1,4 @@
-### Salut, Je m'appelle Christophe
+### Salut, je m'appelle Christophe
 
 ---
 
