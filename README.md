@@ -10,6 +10,15 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 
 <a href="https://linkedin.com/in/christophe-galon"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+### Conférence
+
+Voici la vidéo d'une conférence donnée avec mes collègues Jérome et Rodrigo à Agile Tour Bordeaux en 2022.
+Le sujet est un retour d'expérience sur la manière d'aider les équipes à se transformer pour faire du Continuous Delivery durablement.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iHEqies39N4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Nous avons également donnée cette conférence à Agile Tour Toulouse et Agile Tour Aix-Marseille en 2022.
+
 ### Un peu de technique
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
