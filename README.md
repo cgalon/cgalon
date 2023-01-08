@@ -15,7 +15,7 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 Voici la vidéo d'une conférence donnée avec mes collègues Jérome et Rodrigo à Agile Tour Bordeaux en 2022.
 Le sujet est un retour d'expérience sur la manière d'aider les équipes à se transformer pour faire du Continuous Delivery durablement.
 
-[![Regarder la vidéo](https://www.youtube.com/embed/iHEqies39N4)](https://www.youtube.com/embed/iHEqies39N4)
+[![Regarder la vidéo](images/conference.png)](https://www.youtube.com/embed/iHEqies39N4)
 
 Nous avons également donnée cette conférence à Agile Tour Toulouse et Agile Tour Aix-Marseille en 2022.
 
