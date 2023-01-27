@@ -1,8 +1,8 @@
-### Salut, je m'appelle Christophe
+### Bonjour, je m'appelle Christophe Galon
 
 ---
 
-Actuellement je suis Ingénieur Logiciel à Pôle emploi à Bordeaux, France.
+Je suis actuellement ingénieur iogiciel à Pôle emploi à Bordeaux, France.
 
 J'aide les équipes à se transformer pour adopter les pratiques liées au Continuous Delivery et au Software Craftmanship.
 
@@ -13,13 +13,15 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 ### Conférence
 
 Voici la vidéo d'une conférence donnée avec mes collègues Jérome et Rodrigo à Agile Tour Bordeaux en 2022.
-Le sujet est un retour d'expérience sur la manière d'aider les équipes à se transformer pour faire du Continuous Delivery durablement.
+Le sujet est un retour d'expérience sur la manière d'aider les équipes à se transformer durablement pour faire du Continuous Delivery.
 
 [![Regarder la vidéo](images/conference.png)](https://www.youtube.com/embed/iHEqies39N4)
 
 Nous avons également donnée cette conférence à Agile Tour Toulouse et Agile Tour Aix-Marseille en 2022.
 
 ### Un peu de technique
+
+Les principaux sujets techniques sur lesquels je travaille.
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
