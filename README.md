@@ -55,6 +55,4 @@ Une liste de livres qui m'ont particulièrement intéressés.
 [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=cgalon)](https://github.com/cgalon/cgalon)
-
-[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=cgalon&show_icons=true)](https://github.com/cgalon/livingdoc-test-outils)
+[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=cgalon&show_icons=true&theme=gruvbox)](https://github.com/cgalon/cgalon)
