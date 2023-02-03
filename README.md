@@ -58,3 +58,7 @@ Une liste de livres qui m'ont particulièrement intéressés.
 [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=cgalon&show_icons=true&theme=gruvbox)](https://github.com/cgalon/cgalon)  
 [![Séquences](https://streak-stats.demolab.com?user=cgalon&theme=gruvbox&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)  
 [![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgalon&theme=gruvbox&show_icons=true)](https://git.io/streak-stats)
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=cgalon&theme=gotham&show_icons=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=cgalon&theme=gotham&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=cgalon&theme=gotham&show_icons=true&layout=compact' />
