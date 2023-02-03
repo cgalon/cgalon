@@ -1,4 +1,4 @@
-### Bonjour, je m'appelle Christophe Galon
+## Bonjour, je m'appelle Christophe Galon
 
 ---
 
@@ -10,7 +10,7 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 
 <a href="https://linkedin.com/in/christophe-galon"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-### Conférence
+## Conférence
 
 Voici la vidéo d'une conférence donnée avec mes collègues Jérome et Rodrigo à Agile Tour Bordeaux en 2022.
 Le sujet est un retour d'expérience sur la manière d'aider les équipes à se transformer durablement pour faire du Continuous Delivery.
@@ -19,7 +19,7 @@ Le sujet est un retour d'expérience sur la manière d'aider les équipes à se 
 
 Nous avons également donnée cette conférence à Agile Tour Toulouse et Agile Tour Aix-Marseille en 2022.
 
-### Un peu de technique
+## Un peu de technique
 
 Les principaux sujets techniques sur lesquels je travaille.
 
@@ -41,7 +41,7 @@ Les principaux sujets techniques sur lesquels je travaille.
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
-### Quelques lectures intéressantes
+## Quelques lectures intéressantes
 
 Une liste de livres qui m'ont particulièrement intéressés.
 
@@ -49,11 +49,11 @@ Une liste de livres qui m'ont particulièrement intéressés.
 |--|--|--|--|
 | **[Continuous Delivery](https://www.amazon.fr/Continuous-Delivery-Reliable-Deployment-Automation/dp/0321601912)** | **[Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)**  | **[Living documentation](https://www.amazon.fr/Living-Documentation-Cyrille-Martraire/dp/0134689321)**  | **[Le projet Unicorn](https://www.amazon.fr/projet-Unicorn-histoire-d%C3%A9veloppeurs-disruption/dp/2889153622)**  |
 
-### Stats Github
+## Stats Github
 
 Plusieurs tests en cours. Avec des stats différentes suivant l'outil utilisé...
 
-#### Une première version
+### Une première version
 
 Utilise un workflow GitHub. Généré tous les jours.
 
@@ -61,7 +61,7 @@ Utilise un workflow GitHub. Généré tous les jours.
 [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Deuxième version
+## Deuxième version
 
 Sans génération préalable. Utilise des API en ligne.
 
