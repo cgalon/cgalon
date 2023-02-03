@@ -55,12 +55,16 @@ Plusieurs tests en cours. Avec des stats différentes suivant l'outil utilisé..
 
 #### Une première version
 
-[![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Utilise un workflow GitHub. Généré tous les jours.
+
+[![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cgalon/cgalon/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Deuxième version
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=cgalon&theme=gotham&show_icons=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=cgalon&theme=gotham&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=cgalon&theme=gotham&show_icons=true&layout=compact' />
+Sans génération préalable. Utilise des API en ligne.
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=cgalon&theme=tokyonight&show_icons=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=cgalon&theme=tokyonight&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=cgalon&theme=tokyonight&show_icons=true&layout=compact' />
