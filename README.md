@@ -1,4 +1,4 @@
-## Bonjour, je m'appelle Christophe Galon
+# Bonjour, je m'appelle Christophe Galon
 
 ---
 
@@ -10,7 +10,7 @@ Je suis également très intéressé par la diffusion des connaissances et la li
 
 <a href="https://linkedin.com/in/christophe-galon"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## Conférence
+# Conférence
 
 Voici la vidéo d'une conférence donnée avec mes collègues Jérome et Rodrigo à Agile Tour Bordeaux en 2022.
 Le sujet est un retour d'expérience sur la manière d'aider les équipes à se transformer durablement pour faire du Continuous Delivery.
@@ -68,3 +68,9 @@ Sans génération préalable. Utilise des API en ligne.
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=cgalon&theme=tokyonight&show_icons=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=cgalon&theme=tokyonight&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=cgalon&theme=tokyonight&show_icons=true&layout=compact' />
+
+### Mes repos les plus utilisés
+
+[![living-doc-test-outils](https://github-readme-stats.vercel.app/api/pin/?username=cgalon&repo=livingdoc-test-outils&theme=tokyonight)](https://github.com/cgalon/livingdoc-test-outils)
+[![living-diagram](https://github-readme-stats.vercel.app/api/pin/?username=cgalon&repo=living-diagram&theme=tokyonight)](https://github.com/cgalon/living-diagram)
+[![notes-conferences](https://github-readme-stats.vercel.app/api/pin/?username=cgalon&repo=notes-conferences&theme=tokyonight)](https://github.com/cgalon/notes-conferences)
