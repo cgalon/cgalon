@@ -2,7 +2,7 @@
 
 ---
 
-Je suis actuellement ingénieur iogiciel à Pôle emploi à Bordeaux, France.
+Je suis actuellement ingénieur logiciel chez Pôle emploi à Bordeaux, France.
 
 J'aide les équipes à se transformer pour adopter les pratiques liées au Continuous Delivery et au Software Craftmanship.
 
